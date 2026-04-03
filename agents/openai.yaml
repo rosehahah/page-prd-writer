@@ -1,0 +1,4 @@
+interface:
+  display_name: "Page PRD Writer"
+  short_description: "Write precise PRDs from pages"
+  default_prompt: "Analyze the target page and write a short Chinese requirement doc in numbered feature blocks. Default to concise output, focus on rules and logic, and avoid exhaustive UI inventory unless the user explicitly asks for a detailed PRD."
